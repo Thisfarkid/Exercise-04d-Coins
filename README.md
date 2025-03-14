@@ -2,6 +2,10 @@
 
 ## Implementation
 
+* 2 Levels and an end screen
+* On first level, hidden coins and end flag
+* 2nd level enemies that fall from the platforms you scale up to the flag
+  
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
